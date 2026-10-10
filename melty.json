@@ -4,5 +4,10 @@
   "host": "zumbi-blocks-2-open-alpha",
   "companion": "minecraft-java",
   "mode": "singleplayer",
-  "description": "Integra a Bancada de Trabalho e os recursos do Minecraft no Zumbi Blocks 2."
+  "description": "Integra a Bancada de Trabalho e os recursos do Minecraft no Zumbi Blocks 2.",
+  "components": [
+    {
+      "file": "meu-mashup.zip"
+    }
+  ]
 }
