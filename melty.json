@@ -4,11 +4,11 @@
   "version": "1.0.0",
   "host": "zumbi-blocks-2-open-alpha",
   "companion": "minecraft-java",
+  "mode": "mod",
   "description": "Integra a Bancada de Trabalho e os recursos do Minecraft no Zumbi Blocks 2.",
   "components": [
     {
-      "file": "meu-mashup.zip",
-      "mode": "overlay"
+      "file": "meu-mashup.zip"
     }
   ]
 }
