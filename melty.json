@@ -7,7 +7,8 @@
   "description": "Integra a Bancada de Trabalho e os recursos do Minecraft no Zumbi Blocks 2.",
   "components": [
     {
-      "file": "meu-mashup.zip"
+      "file": "meu-mashup.zip",
+      "mode": "copy"
     }
   ]
 }
